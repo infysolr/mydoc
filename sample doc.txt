@@ -1,1 +1,2 @@
-im in github
+im in github,
+now editing the sample doc and doing a second commit.
